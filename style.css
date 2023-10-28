@@ -71,13 +71,13 @@ button:focus {
 }
 
 @media (max-width: 768px) {
-  /* Styles for screens up to 768px wide (typically phones) */
+  /* (typically phones) */
 }
 
 @media (min-width: 769px) and (max-width: 1024px) {
-  /* Styles for screens between 769px and 1024px wide (typically tablets) */
+  /* (typically tablets) */
 }
 
 @media (min-width: 1025px) {
-  /* Styles for screens wider than 1024px (typically desktops) */
+  /* (typically desktops) */
 }
